@@ -1,0 +1,25 @@
+{
+  "name": "data_scraper",
+  "version": "1.0.0",
+  "description": "data scraper for shirts4mike.com",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunouno/project06.git"
+  },
+  "keywords": [
+    "data",
+    "scraper",
+    "shirts",
+    "mike"
+  ],
+  "author": "Bruno Navarrete",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brunouno/project06/issues"
+  },
+  "homepage": "https://github.com/brunouno/project06#readme"
+}
