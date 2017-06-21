@@ -25,12 +25,9 @@
   "homepage": "https://github.com/brunouno/project06#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.1",
+    "colors": "^1.1.2",
     "json2csv": "^3.7.3",
-    "machinepack-http": "^3.1.2",
-    "sync-request": "^4.1.0",
-    "colors": "^1.1.2"
+    "machinepack-http": "^3.1.2"
   },
-  "optionalDependencies": {
-    
-  }
+  "optionalDependencies": {}
 }
