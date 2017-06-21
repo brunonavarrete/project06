@@ -4,7 +4,8 @@
   "description": "data scraper for shirts4mike.com",
   "main": "scraper.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node scraper.js"
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,15 @@
   "bugs": {
     "url": "https://github.com/brunouno/project06/issues"
   },
-  "homepage": "https://github.com/brunouno/project06#readme"
+  "homepage": "https://github.com/brunouno/project06#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.1",
+    "json2csv": "^3.7.3",
+    "machinepack-http": "^3.1.2",
+    "sync-request": "^4.1.0",
+    "colors": "^1.1.2"
+  },
+  "optionalDependencies": {
+    
+  }
 }
